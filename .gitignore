@@ -1,0 +1,11 @@
+data/
+model/
+splitdataset48x48/
+
+__pycache__/
+*.pyc
+.vscode/
+
+*.h5
+*.keras
+
